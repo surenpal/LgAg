@@ -16,6 +16,7 @@ export default function AnimatedCard() {
           This text fades in when you hover over the card.
         </p>
       </div>
+      <div><DemoCard /></div>
     </div>
   );
 }
