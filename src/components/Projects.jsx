@@ -1,4 +1,5 @@
 import AnimatedCard from "./AnimatedCard";
+import DemoCard from "./DemoCard";
 
 export default function Projects() {
   return (
@@ -12,6 +13,9 @@ export default function Projects() {
         <AnimatedCard />
         <AnimatedCard />
         <AnimatedCard />
+      </div>
+      <div className="mt-16 flex flex-wrap gap-8 justify-center">
+        <DemoCard />
       </div>
     </section>
   );
