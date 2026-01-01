@@ -13,8 +13,8 @@ export default function Projects() {
         <AnimatedCard />
         <AnimatedCard />
         <AnimatedCard />
-      </div>
-      <div className="mt-16 flex flex-wrap gap-8 justify-center">
+        <DemoCard />
+        <DemoCard />
         <DemoCard />
       </div>
     </section>
